@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(139, 142, 132, 0.63)
+
+}
+.boxes {
+    height: 180px;
+    width: 180px;
+    border: 1px solid #000;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.box {
+    height: 50px;
+    width: 50px;
+    /*bd+*/
+    /*border: 1px solid #000;*/
+    border: 1px solid black;
+    display: inline-block;
+}
+.image1{
+  height: 50px;
+  width: 50px;
+   content:url(http://api.ning.com/files/InEdseNRfkKjDB9PZKWFDpdvqXPpZJnbOnEOQIbrIzlls*asaY3WYbTJkWpzDxvN3kWtbiuzNOQAMePLNk32ujBWIXnIuBvk/dreamstime_3538284.jpg);
+}
+.image2{
+  height: 50px;
+  width: 50px;
+    content: url(http://img.phombo.com/img1/photocombo/5960/Fire_Letters_Wallpapers_HD_3000X3000_A-Z0-9-11.jpg_X.jpg)
+}
